@@ -1,0 +1,18 @@
+ 
+used commands:
+
+export TURTLEBOT3_MODEL=burger
+
+roslaunch turtlebot3_gazebo turtlebot3_stage_1.launch
+
+rosrun turtlebot_tutorials  q3.py (note: plot is displayed adter a while from closing it)
+
+rosrun turtlebot_tutorials  q4.py 
+
+rostopic echo /noisy_state
+
+rostopic echo /filtered_heading
+
+rostopic echo /odom
+
+rostopic echo /imu
