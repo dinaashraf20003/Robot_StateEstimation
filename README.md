@@ -1,4 +1,4 @@
-# TurtleBot_StateEstimation
+# Robot_StateEstimation
 This is a State Estimation for Robot Rotation module created for Turtlebot 3 Burger using ROS, gazebo physics simulator and python. Through sensor fusion of robot odometery and IMU readings by Linear Kalman filter we are able to determine the estimated heading of the robot moving in a circular path as illustrated in the video below. 
 
 
