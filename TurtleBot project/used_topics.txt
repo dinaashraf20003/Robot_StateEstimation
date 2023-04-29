@@ -1,7 +1,0 @@
-_/cmd_vel -> Type: geometry_msgs/Twist
-_/scan    -> Type: sensor_msgs/LaserScan
-_/imu     -> Type: sensor_msgs/Imu
-_/odom    -> Type: nav_msgs/Odometry
-
-  
-
