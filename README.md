@@ -13,6 +13,4 @@ The result of the fusion and error ellimination is shown in the graph:
 
 ![Screenshot from 2023-01-07 20-19-02](https://user-images.githubusercontent.com/73821958/235322352-a40c7b6d-2dd7-4f5d-bc77-2a70192a263a.png)
 
-For more information check the full documentation file:  
-
-[State Estimation of Robot Rotation.pdf](https://github.com/dinaashraf20003/TurtleBot_StateEstimation/files/11360014/State.Estimation.of.Robot.Rotation.pdf)
+For more information check the full documentation file: [State Estimation of Robot Rotation](https://github.com/dinaashraf20003/TurtleBot_StateEstimation/files/11360014/State.Estimation.of.Robot.Rotation.pdf)
